@@ -18,4 +18,3 @@ An interactive HR Analytics Dashboard built using Power BI to analyze workforce 
 ## 🚀 Tools & Technologies
 
 - **Power BI** (Data Modeling, DAX, Visualizations)  
-- **Excel / CSV** (Data Source)  
