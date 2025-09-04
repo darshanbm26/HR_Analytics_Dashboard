@@ -1,4 +1,4 @@
-# HR Analytics Dashboard (Power BI)
+# HR Analytics Dashboard 
 
 An interactive HR Analytics Dashboard built using Power BI to analyze workforce data and provide actionable insights for HR teams.
 
